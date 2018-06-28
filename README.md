@@ -7,7 +7,7 @@
 |Name|湯尾守 (Yuo Mamoru)|
 |Qiita|[YuoMamoru@github](https://qiita.com/YuoMamoru@github)|
 
-合同会社レスタス 代表
+[合同会社レスタス](https://restus.co.jp/) 代表
 
 ## スキル
 
