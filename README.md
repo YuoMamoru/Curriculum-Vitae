@@ -35,9 +35,13 @@
 
 ### フレームワーク
 
-- Ruby on Rails
-- Django
-- ASP .NET
+- Web App
+  - Ruby on Rails
+  - Django
+  - ASP .NET
+- 最適化・ディープラーニング
+  - Tensorflow
+  - Keras
 
 ### その他
 
@@ -76,7 +80,7 @@
 
 会社を設立しました。
 
-主に、分析系のシステムを作成。
+分析系・画像認識等のシステム開発に従事。
 
 ### 2018/02 - 2018/5: 個人事業主
 
